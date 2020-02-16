@@ -1,0 +1,8 @@
+{
+  "short_name": "보정고이벤트",
+  "name": "보정고 이벤트 사이트",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
