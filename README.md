@@ -1,7 +1,9 @@
 # 보정고 이벤트
 보정고 학생을 대상으로하는 이벤트 사이트 입니다.
-주소 1 - https://bjevent-823e6.firebaseapp.com/
-주소 2 - https://bjevent.shop
+
+# web
+- 주소 1 - https://bjevent-823e6.firebaseapp.com/
+- 주소 2 - https://bjevent.shop
 
 # deploy
 ```
